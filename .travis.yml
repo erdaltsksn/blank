@@ -1,3 +1,7 @@
+notifications:
+  email:
+    on_success: never
+
 matrix:
   include:
     - language: python
