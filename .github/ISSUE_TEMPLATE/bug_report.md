@@ -14,7 +14,7 @@ describe_the_bug_here
 
 describe_expected_behavior_here
 
-## Steps to reproduce the behavior
+## Steps to reproduce the bug
 
 1. describe
 2. the_steps

@@ -1,8 +1,3 @@
----
-name: Pull request
-about: Create a pull request to help us improve
----
-
 # Pull Request
 
 ## Proposed Changes

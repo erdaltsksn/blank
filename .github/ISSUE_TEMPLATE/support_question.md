@@ -6,7 +6,7 @@ labels: "Type: Question"
 
 # Support Question
 
-## Your Question
+## Your_Question?
 
 describe_your_question_here
 
