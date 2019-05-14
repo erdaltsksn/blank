@@ -8,17 +8,17 @@ project adheres to [Semantic Versioning](https://semver.org/).
 <!-- markdownlint-disable MD022 MD032 -->
 ## [Unreleased]
 ### Fixed
-- for any bug fixes
+- for_any_bug_fixes
 ### Added
-- for new features
+- for_new_features
 ### Changed
-- for changes in existing functionality
+- for_changes_in_existing_functionality
 ### Removed
-- for now removed features
+- for_now_removed_features
 ### Deprecated
-- for soon-to-be removed features
+- for_soon_to_be_removed_features
 ### Security
-- in case of vulnerabilities
+- in_case_of_vulnerabilities
 
 ## [v0.1.0] - 2019-05-01
 - Initial Release
