@@ -14,12 +14,11 @@ You need to install and configure your environment before contributing.
 1. [**Install**](#prerequisites) prerequisites
 2. **Fork** the repository on GitHub
 3. **Clone** the project to your own machine
-4. [**Activate**](#pre-commit) pre-commit hooks
-5. **Start working** on your fix, feature and etc.
-6. **Commit** changes to your own branch according to
+4. **Start working** on your fix, feature and etc.
+5. **Commit** changes to your own branch according to
    [**Commit Message Guidelines**](#commit-message-guidelines)
-7. **Push** your work back up to your fork
-8. Submit a **Pull Request** so that we can review your changes
+6. **Push** your work back up to your fork
+7. Submit a **Pull Request** so that we can review your changes
 
 NOTE: Be sure to merge the latest from "**upstream**" before making a pull
 request!
@@ -27,19 +26,6 @@ request!
 ### Prerequisites
 
 - [Git](https://git-scm.com/downloads)
-- [Python](https://www.python.org/downloads/)
-- [pre-commit](https://pre-commit.com/#install)
-
-### Pre-commit
-
-Run `pre-commit install` to install pre-commit into your git hooks. pre-commit
-will now run on every commit. Running `pre-commit install` should always be the
-first thing you do whenever you clone a project that uses pre-commit.
-
-```sh
-cd /go/to/project/folder
-pre-commit install
-```
 
 ## Commit Message Guidelines
 
@@ -55,9 +41,9 @@ header has a special format that includes a **type**, a **scope** and a
 
 ```sh
 <type>: (<scope>) <subject>
-<BLANK LINE>
+
 <type>: <body>
-<BLANK LINE>
+
 <type>: <footer>
 ```
 
