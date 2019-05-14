@@ -21,8 +21,8 @@ template for your new project.
 
 1. Check it out from GitHub. (There is no reason to fork it.)
 2. Create a new local repository and copy the files from this repo into it.
-3. Modify [LICENSE](LICENSE), [CHANGELOG](CHANGELOG.md) and [README](README.md)
-   to represent your project, not the template project.
+3. Modify [LICENSE](LICENSE), [docs/CHANGELOG](docs/CHANGELOG.md) and
+   [README](README.md) to represent your project, not the template project.
 4. Develop your new project!
 
 ## Usage
@@ -31,16 +31,16 @@ Information about how to use the application. Use code snippets if required.
 
 ## History
 
-See [CHANGELOG](CHANGELOG.md) to learn how this project evolved during the time.
+See [CHANGELOG](docs/CHANGELOG.md) to learn how this project evolved during the time.
 
 ## Contributing
 
 If you want to contribute to this project and make it better, your help is very
-welcome. See [CONTRIBUTING](CONTRIBUTING.md) for more information.
+welcome. See [CONTRIBUTING](docs/CONTRIBUTING.md) for more information.
 
 ## Code of Conduct
 
-This project adheres to [Code of Conduct](CODE_OF_CONDUCT.md). By participating,
+This project adheres to [Code of Conduct](docs/CODE_OF_CONDUCT.md). By participating,
 you are expected to uphold this code.
 
 ## Disclaimer
