@@ -31,7 +31,8 @@ Information about how to use the application. Use code snippets if required.
 
 ## History
 
-See [CHANGELOG](docs/CHANGELOG.md) to learn how this project evolved during the time.
+See [CHANGELOG](docs/CHANGELOG.md) to learn how this project evolved during the
+time.
 
 ## Contributing
 
@@ -40,8 +41,8 @@ welcome. See [CONTRIBUTING](docs/CONTRIBUTING.md) for more information.
 
 ## Code of Conduct
 
-This project adheres to [Code of Conduct](docs/CODE_OF_CONDUCT.md). By participating,
-you are expected to uphold this code.
+This project adheres to [Code of Conduct](docs/CODE_OF_CONDUCT.md). By
+participating, you are expected to uphold this code.
 
 ## Disclaimer
 
