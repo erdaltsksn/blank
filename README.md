@@ -1,33 +1,26 @@
-# BLANK
+# __CHANGE_ME_PROJECTNAME__
 
-[![Build Status](https://travis-ci.com/erdaltsksn/blank.svg?branch=master)](https://travis-ci.com/erdaltsksn/blank)
+[![Build Status](https://travis-ci.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__.svg?branch=master)](https://travis-ci.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__)
 
-## About Blank
+## About __CHANGE_ME_PROJECTNAME__
 
-This is a blank language-agnostic project template that you can use as a starter
-template for your new project.
+__CHANGE_ME__brief_description_of_the_project
 
 ![Screenshot](/media/screenshot.png)
 
 ## Features
 
-- Well-Design Folder Structure
-- Language-Agnostic
-- Issue and Pull Request Templates for GitHub
-- Continuous Integration Ready
-- Apache License Version 2.0
+- __CHANGE_ME__features
+- __CHANGE_ME__of
+- __CHANGE_ME__project
 
 ## Installation
 
-1. Check it out from GitHub. (There is no reason to fork it.)
-2. Create a new local repository and copy the files from this repo into it.
-3. Modify [LICENSE](LICENSE), [docs/CHANGELOG](docs/CHANGELOG.md) and
-   [README](README.md) to represent your project, not the template project.
-4. Develop your new project!
+__CHANGE_ME__installation_steps_of_the_application.
 
 ## Usage
 
-Information about how to use the application. Use code snippets if required.
+__CHANGE_ME__information_about_how_to_use_the_application.
 
 ## History
 
@@ -54,4 +47,5 @@ connection with the use of this software.
 
 ## Feedback
 
-Suggestions / Improvements [WELCOME](https://github.com/erdaltsksn/blank/issues)!
+Suggestions / Improvements [WELCOME]!
+[WELCOME]: https://github.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__/issues

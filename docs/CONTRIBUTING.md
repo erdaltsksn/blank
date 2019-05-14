@@ -18,7 +18,7 @@ You need to install and configure your environment before contributing.
 5. **Commit** changes to your own branch according to
    [**Commit Message Guidelines**](#commit-message-guidelines)
 6. **Push** your work back up to your fork
-7. Submit a **Pull Request** so that we can review your changes
+7. Submit a **Pull Request** so that we can review and merge your changes
 
 NOTE: Be sure to merge the latest from "**upstream**" before making a pull
 request!

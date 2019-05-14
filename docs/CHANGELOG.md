@@ -24,5 +24,5 @@ project adheres to [Semantic Versioning](https://semver.org/).
 - Initial Release
 <!-- markdownlint-enable -->
 
-[Unreleased]: https://github.com/erdaltsksn/blank/compare/v0.1.0...HEAD
-[v0.1.0]: https://github.com/erdaltsksn/blank/releases/tag/v0.1.0
+[Unreleased]: https://github.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__/compare/v0.1.0...HEAD
+[v0.1.0]: https://github.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__/releases/tag/v0.1.0
