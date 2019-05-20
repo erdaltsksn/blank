@@ -88,6 +88,9 @@ The following is the list of supported scopes:
 
 We use default GIT templates for revert and merge.
 
+**Caution:** You should check the differences in [CHANGELOG.md](CHANGELOG.md)
+and verify the result when you `revert` or `merge` a commit.
+
 ## General questions
 
 The main function of the issue tracker is to record bug reports and feature
