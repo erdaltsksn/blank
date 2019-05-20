@@ -7,8 +7,8 @@ matrix:
     # __CHANGE_ME_CIs_or_REMOVE_thisFile__
     - language: python
       python:
-        - "3.7"
+        - "nightly"
       install:
-        - pip install -r requirements.txt
+        - pip install pre-commit
       script:
-        - pytest
+        - pre-commit run --all-files
