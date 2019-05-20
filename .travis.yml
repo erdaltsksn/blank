@@ -4,7 +4,6 @@ notifications:
 
 matrix:
   include:
-    # __CHANGE_ME_CIs_or_REMOVE_thisFile__
     - language: python
       python:
         - "nightly"
