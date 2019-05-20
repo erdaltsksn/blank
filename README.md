@@ -34,13 +34,8 @@ welcome. See [CONTRIBUTING](docs/CONTRIBUTING.md) for more information.
 
 ## Code of Conduct
 
-This project adheres to [Code of Conduct] from the **Contributor Covenant**,
-version 1.4,. By participating, you are expected to uphold this code.
-
-For answers to common questions about this code of conduct, see [FAQ].
-
-[Code of Conduct]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.txt
-[FAQ]: https://www.contributor-covenant.org/faq
+This project adheres to [Code of Conduct](docs/CODE_OF_CONDUCT.md). By
+participating, you are expected to uphold this code.
 
 ## Disclaimer
 
