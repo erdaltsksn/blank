@@ -1,6 +1,6 @@
 # __CHANGE_ME_PROJECTNAME__
 
-[![Build Status](https://travis-ci.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__.svg?branch=master)](https://travis-ci.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__)
+[![Build Status](https://travis-ci.com/erdaltsksn/__CHANGE_ME_REPONAME__.svg?branch=master)](https://travis-ci.com/erdaltsksn/__CHANGE_ME_REPONAME__)
 
 ## About __CHANGE_ME_PROJECTNAME__
 
@@ -49,4 +49,4 @@ connection with the use of this software.
 
 Suggestions / Improvements [WELCOME]!
 
-[WELCOME]: https://github.com/__CHANGE_ME_GITUSERNAME__/__CHANGE_ME_REPONAME__/issues
+[WELCOME]: https://github.com/erdaltsksn/__CHANGE_ME_REPONAME__/issues
