@@ -31,9 +31,9 @@ project adheres to [Semantic Versioning](https://semver.org/).
 
 - in_case_of_vulnerabilities
 
-## [v0.1.0] - __CHANGE_ME_YEAR-MONTH-DAY__
+## [v0.1.0] - __CHANGE_ME__year_month_day
 
 - Initial Release
 
-[Unreleased]: https://github.com/erdaltsksn/__CHANGE_ME_REPONAME__/compare/v0.1.0...HEAD
-[v0.1.0]: https://github.com/erdaltsksn/__CHANGE_ME_REPONAME__/releases/tag/v0.1.0
+[Unreleased]: https://github.com/erdaltsksn/__CHANGE_ME__reponame/compare/v0.1.0...HEAD
+[v0.1.0]: https://github.com/erdaltsksn/__CHANGE_ME__reponame/releases/tag/v0.1.0
