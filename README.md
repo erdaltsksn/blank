@@ -22,11 +22,6 @@ __CHANGE_ME__updating_steps_of_the_application
 
 __CHANGE_ME__information_about_how_to_use_the_application
 
-## History
-
-See [CHANGELOG](docs/CHANGELOG.md) to learn how this project evolved during the
-time.
-
 ## Contributing
 
 If you want to contribute to this project and make it better, your help is very

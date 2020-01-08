@@ -9,13 +9,12 @@ project. Thank you for helping out and remember, no contribution is too small.
 ## Step by step contribution guide
 
 1. [**Install**](#prerequisites) prerequisites
-2. **Fork** the repository on GitHub
-3. **Clone** the project to your own machine
-4. **Start working** on your fix, feature and etc.
-5. **Commit** changes to your own branch according to
+2. **Fork** and **Clone** to your own machine
+3. **Start working** on your fix, feature and etc on **its own branch**.
+4. **Commit** changes to its own branch according to
    [**Commit Message Guidelines**](#commit-message-guidelines)
-6. **Push** your work back up to your fork
-7. Submit a **Pull Request** so that we can review your changes
+5. **Push** your work back to your fork
+6. Open a **Pull Request** so that we can review your changes
 
 **NOTE:** Be sure to get the latest from "**upstream**" before making a pull
 request!
@@ -44,12 +43,12 @@ The **scope** is optional.
 
 ### Template
 
-We use a base commit message template from [dotfiles]. You may find any
-other additional *type*, *scope*, and more information below.
+We use the commit message template from [dotfiles]. You may find any other
+additional *types*, *scopes*, and more information below.
 
 [dotfiles]: https://github.com/erdaltsksn/dotfiles/blob/master/git/.gittemplate
 
-### Additional Types
+### Types
 
 As well as those specified in the [dotfiles] file, The following is the list of
 supported types:
@@ -58,16 +57,11 @@ supported types:
 
 The following is the list of supported scopes:
 
-- **git** e.g. gitignore, gitattributes, .github and etc.
-- **cid** e.g. travis, pre-commit, netlify, heroku, and etc.
-- **readme** e.g. readme, getting started, changelog, license and etc.
+- **devops** e.g. git, travis, pre-commit, netlify, heroku, and etc.
 
 ### Revert and Merge
 
-We use default GIT templates for revert and merge.
-
-**Caution:** You should check the differences in [CHANGELOG.md](CHANGELOG.md)
-and verify the result when you `revert` or `merge` a commit.
+Use default GIT templates for `revert` and `merge`.
 
 ## Issues
 
@@ -92,9 +86,6 @@ considerations:
 
 If you want to request or implement a new feature please submit an issue
 describing the details and possible use cases.
-
-Features that break backward compatibility must provide good reasons to do it
-and a deprecation note when applicable.
 
 ## Thanks
 
