@@ -39,8 +39,6 @@ the **project history**.
 <type>: <footer>
 ```
 
-The **scope** is optional.
-
 ### Template
 
 We use the commit message template from [dotfiles]. You may find any other
@@ -57,7 +55,10 @@ supported types:
 
 The following is the list of supported scopes:
 
-- **devops** e.g. git, travis, pre-commit, netlify, heroku, and etc.
+- **(*)** Multiple scopes or Unknown.
+- **(devops)** e.g. git, travis, pre-commit, netlify, heroku, and etc.
+- **(readme)** e.g. readme, getting started, changelog, code of conduct, license
+  and etc.
 
 ### Revert and Merge
 
