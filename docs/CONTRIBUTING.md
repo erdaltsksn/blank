@@ -56,7 +56,7 @@ supported types:
 The following is the list of supported scopes:
 
 - **(*)** Multiple scopes or Unknown.
-- **(devops)** e.g. git, travis, pre-commit, netlify, heroku, and etc.
+- **(devops)** e.g. git, travis, pre-commit, netlify, heroku, npm, gulp and etc.
 - **(readme)** e.g. readme, getting started, changelog, code of conduct, license
   and etc.
 
