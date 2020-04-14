@@ -21,7 +21,7 @@ request!
 
 ### Prerequisites
 
-- [Git](https://git-scm.com/downloads)
+- [Git](https://git-scm.com)
 
 ## Commit Message Guidelines
 
