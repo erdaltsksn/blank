@@ -10,6 +10,10 @@ __CHANGE_ME__description_of_the_project
 
 - __CHANGE_ME__features_of_project
 
+## Getting Started
+
+- __CHANGE_ME__getting_started
+
 ## Installation
 
 __CHANGE_ME__installation_steps_of_the_application
