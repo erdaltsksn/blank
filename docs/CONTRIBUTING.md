@@ -14,7 +14,7 @@ project. Thank you for helping out and remember, no contribution is too small.
 4. **Commit** changes to its own branch according to
    [**Commit Message Guidelines**](#commit-message-guidelines)
 5. **Push** your work back to your fork
-6. Open a **Pull Request** so that we can review your changes
+6. Open a **Pull Request** so that we can review and merge your changes
 
 **NOTE:** Be sure to get the latest from "**upstream**" before making a pull
 request!
