@@ -1,6 +1,6 @@
 # __CHANGE_ME___project_name
 
-[![Build Status](https://travis-ci.com/erdaltsksn/__CHANGE_ME_reponame.svg?branch=master)](https://travis-ci.com/erdaltsksn/__CHANGE_ME_reponame)
+![__CHANGE_ME__action](https://github.com/erdaltsksn/__CHANGE_ME__reponame/workflows/__CHANGE_ME__action/badge.svg)
 
 __CHANGE_ME__description_of_the_project
 
