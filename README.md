@@ -10,6 +10,10 @@ __CHANGE_ME__description_of_the_project
 
 - __CHANGE_ME__features_of_project
 
+## Requirements
+
+- __CHANGE_ME__requirements
+
 ## Getting Started
 
 - __CHANGE_ME__getting_started
@@ -18,13 +22,17 @@ __CHANGE_ME__description_of_the_project
 
 __CHANGE_ME__installation_steps_of_the_application
 
-## Updating
+## Updating / Upgrading
 
 __CHANGE_ME__updating_steps_of_the_application
 
 ## Usage
 
 __CHANGE_ME__information_about_how_to_use_the_application
+
+## Getting Help
+
+__CHANGE_ME__getting_help
 
 ## Contributing
 
