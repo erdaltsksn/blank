@@ -4,7 +4,7 @@
 
 __CHANGE_ME__description_of_the_project
 
-![Screenshot](/assets/screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 ## Features
 
